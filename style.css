@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    
+   font-family: 'Roboto';
+}
+.myname{
+    color: #EC4F90;
+    font-size: 60px;
+}
+
+.hello{
+    font-size: 50px;
+    font-weight: 400
+}
+.topleft h2{
+    font-size: 30px;
+    font-weight: 400;
+}
+p{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.top h2, h1{
+    margin-bottom: 10px;
+}
+.top{
+    /* height: 800px; */
+    overflow: hidden;
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+}
+.topleft{
+    width: 40%;
+    float: left;
+    margin-top: 100px;
+}
+.topright{
+    width: 40%;
+    float: right;
+}
+img{
+    width: 100%;
+}
+.bio{
+    /* height: 800px; */
+    overflow: hidden;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px;
+}
+.bioLeft{
+    width: 40%;
+    float: left;
+}
+.bioRight{
+    width: 40%;
+    float: right;
+    margin-top: 200px;
+}
+a{
+    background: #EC4F90;
+    padding: 8px 25px;
+    text-decoration: none;
+    color: white;
+    border-radius: 6px;
+}
+.bio h1{
+    font-size: 50px;
+    color: #202428;
+    font-weight: 400;
+}
+.portfolio{
+    width: 90%;
+    margin: 0 auto;
+}
+.portimg{
+    width: 30%;
+    float: left;
+    margin-right: 20px;
+    padding: 10px;
+}
+.first{
+    margin-left: 20px;
+}
+.portfolio h1{
+    font-size: 50px;
+    color: #202428;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 50px;
+}
